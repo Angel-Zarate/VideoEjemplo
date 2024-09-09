@@ -6,3 +6,5 @@ dolares = str(dolares)
 print("Tienes \n $"+ dolares + " dolares" )
 
 #Esta editando la segunda persona o perosna B Ian Alexis.
+menu = "Este archivo esta hecho por dos programadores"
+print(menu)

@@ -4,3 +4,5 @@ dolares = pesos / valor_dolar
 dolares = round(dolares, 2)
 dolares = str(dolares)
 print("Tienes \n $"+ dolares + " dolares" )
+
+#Esta editando la segunda persona o perosna B Ian Alexis.
